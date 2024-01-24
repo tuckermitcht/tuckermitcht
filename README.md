@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tuckermitcht
+- 👋 Hi, I’m Mitch
 - 👀 I’m interested in JavaScript, PHP, CSS and HTML
-- 🌱 I’m a recent graduate at iO Academy where i have been studying towards being a Full Stack Developer
+- 🌱 I’m am a Full Stack Developer who has recently graduated from iO Academy
 - 📫 Reach me on linkedIn... https://www.linkedin.com/in/tuckermitcht
 
 
